@@ -64,8 +64,8 @@ hr {
 }
 
 .tab-2 hr {
-    width: 100px;
-    height: 3px;
+    width: 90px;
+    height: 1px;
     background: white;
 }
 
@@ -96,8 +96,8 @@ hr {
 }
 
 .tab-3 hr {
-    width: 150px;
-    height: 3px;
+    width: 100px;
+    height: 1px;
     background: white;
 }
 

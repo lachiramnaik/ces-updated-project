@@ -71,7 +71,7 @@ const Faculty = () => {
     const main_card_body = {
         justifyContent: ' center',
         textAlign: 'center',
-        padding: '40px',
+        padding: '10px',
         background: '#f1f2f6'
     };
     const structural_heading = {

@@ -61,7 +61,7 @@ const Funding_team = () => {
         };
 const span={
     fontFamily: 'Gabriola',
-    fontSize:'40px',
+    fontSize:'30px',
     color:'red'
 }
 
@@ -82,14 +82,7 @@ const span={
 
 
                         <div class="card-deck" style={card_deck}>
-  <div class="card" style={main_card} >
-    <img src={vedashree} class="card-img-top" alt="..." style={img}/>
-    <div class="card-body" style={main_card_body}>
-      <h5 class="card-title">UG Research Presentation</h5>
-      <p class="card-text">Vedashree Chandewar (CE18BTECH11036) <span style={span}>2nd prize</span> in InterIIT Civil Conclave 2021. </p>
-      
-    </div>
-  </div>
+ 
   <div class="card" style={main_card}>
     <img src={iithlogo} class="card-img-top" alt="..." style={img}/>
     <div class="card-body" style={main_card_body}>
@@ -104,6 +97,14 @@ const span={
     <div class="card-body" style={main_card_body}>
       <h5 class="card-title">PG Research Presentation</h5>
       <p class="card-text"> Chandra Shekhar Lakavath (CE19RESCH11007) <span style={span}>1st prize</span> in InterIIT Civil Conclave 2021. </p>
+      
+    </div>
+  </div>
+  <div class="card" style={main_card} >
+    <img src={vedashree} class="card-img-top" alt="..." style={img}/>
+    <div class="card-body" style={main_card_body}>
+      <h5 class="card-title">UG Research Presentation</h5>
+      <p class="card-text">Vedashree Chandewar (CE18BTECH11036) <span style={span}>2nd prize</span> in InterIIT Civil Conclave 2021. </p>
       
     </div>
   </div>

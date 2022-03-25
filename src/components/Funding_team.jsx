@@ -90,13 +90,13 @@ const Funding_team = () => {
     };
     const icons = {
 
-        margin: '15px',
+        margin: '10px 0px 10px 0px',
         fontSize: '30px'
 
 
     };
     const icon_link = {
-        padding: '20px',
+        padding: '15px',
         color: 'black',
 
     }

@@ -99,13 +99,13 @@ const Team_2122 = () => {
     };
     const icons = {
 
-        margin: '10px',
+        margin: '10px 0px 10px 0px',
         fontSize: '30px'
 
 
     };
     const icon_link = {
-        padding: '20px',
+        padding: '15px',
         color: 'black',
 
     }
