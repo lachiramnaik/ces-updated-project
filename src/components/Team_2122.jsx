@@ -39,13 +39,13 @@ const Team_2122 = () => {
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: ' 50px'
+        fontSize: ' 40px'
 
     };
     const hr_1 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '150px',
+        width: '100px',
         borderRadius: '8px',
         padding: '1px',
         color: 'white',
@@ -69,12 +69,12 @@ const Team_2122 = () => {
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: '50px'
+        fontSize: '40px'
     };
     const hr_2 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '130px',
+        width: '80px',
         borderRadius: '8px',
         padding: ' 1px',
         color: 'rgb(0, 0, 0)',
@@ -99,7 +99,7 @@ const Team_2122 = () => {
     };
     const icons = {
 
-        margin: '15px',
+        margin: '10px',
         fontSize: '30px'
 
 
@@ -178,7 +178,7 @@ const Team_2122 = () => {
                                             <div style={icons} className='icons'>
                                                 <a href="mailto:ce18btech11036@iith.ac.in" style={icon_link}><i class="bi bi-envelope"></i></a>
                                                 <a href="tel:+91 7769944432" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="https://www.linkedin.com/in/vedashree-chandewar-9099571b3" style={icon_link}><i class="bi bi-globe"></i></a>
+                                                <a href="https://www.linkedin.com/in/vedashree-chandewar-9099571b3" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>

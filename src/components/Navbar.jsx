@@ -79,7 +79,7 @@ export class Navbar extends Component {
                           <div className="card card-body">
 
                             <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="team_2122" className="dropdown-item">Team 2021-2022</NavLink></li>
-                            <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Funding Team</NavLink></li>
+                            <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Founding Team</NavLink></li>
 
 
                           </div>
@@ -151,7 +151,7 @@ export class Navbar extends Component {
                   <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   
                   <li><NavLink exact activeClassName="active_class" to="team_2122" className="dropdown-item">Team 2021-2022</NavLink></li>
-                            <li><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Funding Team</NavLink></li>
+                            <li><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Founding Team</NavLink></li>
 
                   </ul>
                 </li>

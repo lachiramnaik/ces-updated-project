@@ -18,10 +18,10 @@ export class footer extends Component {
                                 <a href="https://www.iith.ac.in/">IITH Website</a><br></br>
                                 <a href="https://civil.iith.ac.in/">IITH Civil Website</a><br></br>
                                 <a href="./faculty">Faculty </a><br></br>
-                                <a href="#">Clubs</a><br></br>
+                               
                             </div>
                             <div className='col-md-3 tab-2'>
-                                <h2>follow us</h2><center><hr></hr></center><br></br>
+                                <h2>follow us</h2><center><hr></hr></center>
                                 <a class="social" href="https://www.facebook.com/CivilEngineeringSocietyIITHyderabad/"><i class="bi bi-facebook"></i></a>
                                 <a class="social" href="https://www.instagram.com/ces_iith/"><i class="bi bi-instagram"></i></a><br></br>
                                 <a class="social-1" href="https://youtube.com/channel/UCaNcGV6cJQt3S1ykonNIq7g"><i class="bi bi-youtube"></i></a>

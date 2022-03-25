@@ -1,5 +1,5 @@
 import React from 'react';
-import dhanush from './images/funding team/Dhanush.jpg';
+import chandrashekar from './images/achievements/chandrashekar.jpeg';
 import vedashree from './images/achievements/Vedashree.jpg';
 import iithlogo from './images/achievements/iithlogo.png';
 const Funding_team = () => {
@@ -24,13 +24,13 @@ const Funding_team = () => {
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: ' 50px'
+        fontSize: ' 40px'
 
     };
     const hr_1 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '200px',
+        width: '140px',
         borderRadius: '8px',
         padding: '1px',
         color: 'white',
@@ -100,7 +100,7 @@ const span={
     </div>
   </div>
   <div class="card" style={main_card}>
-    <img src={dhanush} class="card-img-top" alt="..." style={img}/>
+    <img src={chandrashekar} class="card-img-top" alt="..." style={img}/>
     <div class="card-body" style={main_card_body}>
       <h5 class="card-title">PG Research Presentation</h5>
       <p class="card-text"> Chandra Shekhar Lakavath (CE19RESCH11007) <span style={span}>1st prize</span> in InterIIT Civil Conclave 2021. </p>

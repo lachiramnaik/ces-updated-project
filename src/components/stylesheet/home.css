@@ -195,6 +195,7 @@ body {
     justify-content: center;
     text-align: center;
     padding: 20px;
+    background: white;
 }
 
 .carousel-item p {

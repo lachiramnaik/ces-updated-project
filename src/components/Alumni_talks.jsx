@@ -23,13 +23,13 @@ const Alumni_talks = () => {
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: ' 50px'
+        fontSize: ' 40px'
 
     };
     const hr_1 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '200px',
+        width: '130px',
         borderRadius: '8px',
         padding: '1px',
         color: 'white',

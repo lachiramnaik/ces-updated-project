@@ -30,13 +30,13 @@ const Funding_team = () => {
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: ' 50px'
+        fontSize: ' 40px'
 
     };
     const hr_1 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '200px',
+        width: '150px',
         borderRadius: '8px',
         padding: '1px',
         color: 'white',
@@ -60,12 +60,12 @@ const Funding_team = () => {
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: '50px'
+        fontSize: '40px'
     };
     const hr_2 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '130px',
+        width: '100px',
         borderRadius: '8px',
         padding: ' 1px',
         color: 'rgb(0, 0, 0)',
@@ -108,7 +108,7 @@ const Funding_team = () => {
         <div className='container-fluid' style={container_setting}>
             <div className='row'>
                 <div className='col'>
-                    <h1 style={about_heading_1}> Funding Team </h1>
+                    <h1 style={about_heading_1}> Founding Team </h1>
                     <center><hr style={hr_1}></hr></center>
                     <br></br>
                     <div className="card" style={main_card}>

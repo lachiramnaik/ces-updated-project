@@ -48,13 +48,13 @@ const submithandle = e =>{
         justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'Gabriola',
-        fontSize: ' 50px'
+        fontSize: ' 40px'
 
     };
     const hr_1 = {
         justifyContent: 'center',
         textAlign: 'center',
-        width: '200px',
+        width: '100px',
         borderRadius: '8px',
         padding: '1px',
         color: 'white',
@@ -87,7 +87,7 @@ const submithandle = e =>{
                     <div className="card" style={main_card}>
                         <div className="card-body" style={main_card_body}>
 
-                        {/*<div class="card-body">
+                       <div class="card-body">
                         <form action="https://formspree.io/f/moqprbaq" method="post">
                             <input type="text" name="Name" placeholder="Name" class="form-control mb-2" required/>
                             <input type="email" name="Email" placeholder="Email" class="form-control mb-2" required/>
@@ -95,8 +95,8 @@ const submithandle = e =>{
                             <textarea name="Queries" class="form-control query mb-2" placeholder=" Queries" required></textarea>
                             <button class="btn btn-success" name="btn-send"> Send </button>
                         </form>
-</div>*/}
-<form onSubmit={submithandle}>
+</div>
+ {/*<form onSubmit={submithandle}>
 <div class="mb-3">
   <label for="exampleFormControlInput1" class="form-label ">Subject</label>
   <input type="name" name='subject' class="form-control" id="exampleFormControlInput1" placeholder="Full Name" required
@@ -126,7 +126,7 @@ const submithandle = e =>{
   />
 </div>
 <button type='submit' class="btn btn-success" name="submit"> Send </button>
-</form>
+</form>*/}
 
 
 
